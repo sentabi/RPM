@@ -1,5 +1,5 @@
 RPM
 ===
 
-File-file rpm build sendiri
+File-file RPM koleksi pribadi, silahkan digunakan. Tidak ada jaminan bahwa semua file berjalan dengan sempurna ;)
 
